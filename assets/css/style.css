@@ -190,4 +190,8 @@ button {
         
         float: left;
     }
+
+    #para {
+        clear: both;
+    }
 }
